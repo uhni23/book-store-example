@@ -1,0 +1,174 @@
+{
+  "book": [
+    {
+      "bookname": "Eloquent JavaScript, Third Edition",
+      "id": "1",
+      "author": "Marijn Haverbeke",
+      "datepublished": "2018-12-04",
+      "description": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
+      "category": [
+        "Educational",
+        "Computer Science"
+      ],
+      "cost": "100"
+    },
+    {
+      "bookname": "Apples Never Fall",
+      "id": "2",
+      "author": "Liane Moriarty",
+      "datepublished": "2021-14-09",
+      "description": "The structure follows the pattern of Big Little Lies by setting up a mystery and then jumping months into the past to unravel it. Funny, sad, astute, occasionally creepy, and slyly irresistible",
+      "category": [
+        "Mystery",
+        "Fiction"
+      ],
+      "cost": "30"
+    },
+    {
+      "bookname": "Harry Potter and the Goblet of Fire",
+      "id": "3",
+      "author": "J.K. Rowling",
+      "datepublished": "2015-12-08",
+      "description": "Harry Potter returns to Hogwarts for his fourth year of magical adventures in Harry Potter and the Goblet of Fire.",
+      "category": [
+        "Fiction",
+        "Adventure",
+        "Fantasy"
+      ],
+      "cost": "20"
+    },
+    {
+      "bookname": "The Lord of the Rings",
+      "id": "4",
+      "author": "J.R.R. Tolkien",
+      "datepublished": "1954-07-29",
+      "description": "The Lord of the Rings is an epic high-fantasy novel by English author and scholar J. R. R. Tolkien",
+      "category": [
+        "Fantasy",
+        "Fiction",
+        "Thriller"
+      ],
+      "cost": "50"
+    },
+    {
+      "bookname": "The Handmaid's Tale",
+      "id": "5",
+      "author": "Margaret Atwood",
+      "datepublished": "1985-12-04",
+      "description": "The novel explores themes of subjugated women in a patriarchal society and the various means by which they resist and attempt to gain individuality and independence.",
+      "category": [
+        "Fiction",
+        "Drama"
+      ],
+      "cost": "30"
+    },
+    {
+      "bookname": "Understanding ECMAScript 6",
+      "id": "6",
+      "author": "Nicholas C. Zakas",
+      "datepublished": "2016-09-03",
+      "description": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language.",
+      "category": [
+        "Educational",
+        "Computer Science"
+      ],
+      "cost": "100"
+    },
+    {
+      "bookname": "You Don't Know JS Yet",
+      "id": "7",
+      "author": "Kyle Simpson",
+      "datepublished": "2020-01-28",
+      "description": "The worldwide best selling You Don't Know JS book series is back for a 2nd edition: You Don't Know JS Yet. All 6 books are brand new, rewritten to cover all sides of JS for 2020 and beyond.",
+      "category": [
+        "Educational",
+        "Computer Science"
+      ],
+      "cost": "45"
+    },
+    {
+      "bookname": "Moby-Dick",
+      "id": "8",
+      "author": "Herman Melville",
+      "datepublished": "1851-10-18",
+      "description": "The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee.",
+      "category": [
+        "Fiction",
+        "Adventure"
+      ],
+      "cost": "30"
+    },
+    {
+      "bookname": "Spark Joy:An Illustrated Master Class on the Art of Organizing and Tidying Up",
+      "id": "9",
+      "author": "Marie Kondō",
+      "datepublished": "2016-01-05",
+      "description": "In her new organizational how-to book, Kondo's mission is to help us identify what brings joy while simultaneously cultivating more of it.",
+      "category": [
+        "Non-Fiction",
+        "Self-Help"
+      ],
+      "cost": "12"
+    },
+    {
+      "bookname": "The Premonition: A Pandemic Story",
+      "id": "10",
+      "author": "Michael Lewis",
+      "datepublished": "2021-05-04",
+      "description": "An urgent, highly readable contribution to the literature of what might be called the politics of disease.",
+      "category": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "cost": "15"
+    },
+    {
+      "bookname": "Enemy at the Gates (Mitch Rapp Book 20) ",
+      "id": "13",
+      "author": "Vince Flynn",
+      "datepublished": "2021-09-05",
+      "description": "Picking up where the “tour de force” (The Providence Journal) Total Power left off, the next thriller in the #1 New York Times bestselling Mitch Rapp series follows the CIA’s top operative as he searches for a high-level mole with the power to rewrite the world order.",
+      "category": [
+        "Thriller",
+        "Fiction"
+      ],
+      "cost": "40"
+    },
+    {
+      "bookname": "A Court of Mist and Fury (A Court of Thorns and Roses)",
+      "id": "14",
+      "author": "Sarah J.Maas",
+      "datepublished": "2021-12-04",
+      "description": "Feyre has undergone more trials than one human woman can carry in her heart. Though she’s now been granted the powers and lifespan of the High Fae, she is haunted by her time Under the Mountain and the terrible deeds she performed to save the lives of Tamlin and his people.",
+      "category": [
+        "Fantasy",
+        "Fiction"
+      ],
+      "cost": "100"
+    },
+    {
+      "bookname": "Practical Modern JavaScript",
+      "id": "15",
+      "author": "Nicolás Bevacqu",
+      "datepublished": "2017-07-16",
+      "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+      "category": [
+        "Educational",
+        "Computer Science"
+      ],
+      "cost": "100"
+    },
+    {
+      "bookname": "Java Script In brief",
+      "id": "16",
+      "author": "Tom Hanks",
+      "datepublished": "2020-12-04",
+      "description": "JavaScript lies at the heart of almost every modern web application.",
+      "category": [
+        "Educational",
+        "Computer Science"
+      ],
+      "cost": "50"
+    }
+  ]
+}
